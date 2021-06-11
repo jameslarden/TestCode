@@ -1,29 +1,30 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\SCI 10\\Desktop\\CODE\\CODE.csproj": {}
+    "C:\\Users\\james_7wltr8p\\Desktop\\CODE\\CODE.csproj": {}
   },
   "projects": {
-    "C:\\Users\\SCI 10\\Desktop\\CODE\\CODE.csproj": {
+    "C:\\Users\\james_7wltr8p\\Desktop\\CODE\\CODE.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\SCI 10\\Desktop\\CODE\\CODE.csproj",
+        "projectUniqueName": "C:\\Users\\james_7wltr8p\\Desktop\\CODE\\CODE.csproj",
         "projectName": "CODE",
-        "projectPath": "C:\\Users\\SCI 10\\Desktop\\CODE\\CODE.csproj",
-        "packagesPath": "C:\\Users\\SCI 10\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\SCI 10\\Desktop\\CODE\\obj\\",
+        "projectPath": "C:\\Users\\james_7wltr8p\\Desktop\\CODE\\CODE.csproj",
+        "packagesPath": "C:\\Users\\james_7wltr8p\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\james_7wltr8p\\Desktop\\CODE\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\SCI 10\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\james_7wltr8p\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
-          "netcoreapp3.1"
+          "net5.0"
         ],
         "sources": {
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "netcoreapp3.1": {
+          "net5.0": {
+            "targetAlias": "net5.0",
             "projectReferences": {}
           }
         },
@@ -34,7 +35,8 @@
         }
       },
       "frameworks": {
-        "netcoreapp3.1": {
+        "net5.0": {
+          "targetAlias": "net5.0",
           "imports": [
             "net461",
             "net462",
@@ -50,7 +52,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.409\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.300\\RuntimeIdentifierGraph.json"
         }
       }
     }
