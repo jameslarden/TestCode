@@ -1,0 +1,48 @@
+C:\Users\james_7wltr8p\Desktop\CODE\bin\Debug\net5.0\CODE.exe
+C:\Users\james_7wltr8p\Desktop\CODE\bin\Debug\net5.0\CODE.deps.json
+C:\Users\james_7wltr8p\Desktop\CODE\bin\Debug\net5.0\CODE.runtimeconfig.json
+C:\Users\james_7wltr8p\Desktop\CODE\bin\Debug\net5.0\CODE.runtimeconfig.dev.json
+C:\Users\james_7wltr8p\Desktop\CODE\bin\Debug\net5.0\CODE.dll
+C:\Users\james_7wltr8p\Desktop\CODE\bin\Debug\net5.0\ref\CODE.dll
+C:\Users\james_7wltr8p\Desktop\CODE\bin\Debug\net5.0\CODE.pdb
+C:\Users\james_7wltr8p\Desktop\CODE\obj\Debug\net5.0\CODE.csproj.AssemblyReference.cache
+C:\Users\james_7wltr8p\Desktop\CODE\obj\Debug\net5.0\CODE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\james_7wltr8p\Desktop\CODE\obj\Debug\net5.0\CODE.AssemblyInfoInputs.cache
+C:\Users\james_7wltr8p\Desktop\CODE\obj\Debug\net5.0\CODE.AssemblyInfo.cs
+C:\Users\james_7wltr8p\Desktop\CODE\obj\Debug\net5.0\CODE.csproj.CoreCompileInputs.cache
+C:\Users\james_7wltr8p\Desktop\CODE\obj\Debug\net5.0\CODE.dll
+C:\Users\james_7wltr8p\Desktop\CODE\obj\Debug\net5.0\ref\CODE.dll
+C:\Users\james_7wltr8p\Desktop\CODE\obj\Debug\net5.0\CODE.pdb
+C:\Users\james_7wltr8p\Desktop\CODE\obj\Debug\net5.0\CODE.genruntimeconfig.cache
+C:\Users\SCI 10\Desktop\CODE_v2\obj\Debug\net5.0\CODE.csproj.AssemblyReference.cache
+C:\Users\SCI 10\Desktop\CODE_v2\obj\Debug\net5.0\CODE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SCI 10\Desktop\CODE_v2\obj\Debug\net5.0\CODE.AssemblyInfoInputs.cache
+C:\Users\SCI 10\Desktop\CODE_v2\obj\Debug\net5.0\CODE.AssemblyInfo.cs
+C:\Users\SCI 10\Desktop\CODE_v2\obj\Debug\net5.0\CODE.csproj.CoreCompileInputs.cache
+C:\Users\SCI 10\Desktop\CODE_v2\obj\Debug\net5.0\CODE.dll
+C:\Users\SCI 10\Desktop\CODE_v2\obj\Debug\net5.0\ref\CODE.dll
+C:\Users\SCI 10\Desktop\CODE_v2\obj\Debug\net5.0\CODE.pdb
+C:\Users\SCI 10\Desktop\CODE_v2\bin\Debug\net5.0\CODE.exe
+C:\Users\SCI 10\Desktop\CODE_v2\bin\Debug\net5.0\CODE.deps.json
+C:\Users\SCI 10\Desktop\CODE_v2\bin\Debug\net5.0\CODE.runtimeconfig.json
+C:\Users\SCI 10\Desktop\CODE_v2\bin\Debug\net5.0\CODE.runtimeconfig.dev.json
+C:\Users\SCI 10\Desktop\CODE_v2\bin\Debug\net5.0\CODE.dll
+C:\Users\SCI 10\Desktop\CODE_v2\bin\Debug\net5.0\ref\CODE.dll
+C:\Users\SCI 10\Desktop\CODE_v2\bin\Debug\net5.0\CODE.pdb
+C:\Users\SCI 10\Desktop\CODE_v2\obj\Debug\net5.0\CODE.genruntimeconfig.cache
+C:\Users\james_7wltr8p\Desktop\CODE_v2\bin\Debug\net5.0\CODE.exe
+C:\Users\james_7wltr8p\Desktop\CODE_v2\bin\Debug\net5.0\CODE.deps.json
+C:\Users\james_7wltr8p\Desktop\CODE_v2\bin\Debug\net5.0\CODE.runtimeconfig.json
+C:\Users\james_7wltr8p\Desktop\CODE_v2\bin\Debug\net5.0\CODE.runtimeconfig.dev.json
+C:\Users\james_7wltr8p\Desktop\CODE_v2\bin\Debug\net5.0\CODE.dll
+C:\Users\james_7wltr8p\Desktop\CODE_v2\bin\Debug\net5.0\ref\CODE.dll
+C:\Users\james_7wltr8p\Desktop\CODE_v2\bin\Debug\net5.0\CODE.pdb
+C:\Users\james_7wltr8p\Desktop\CODE_v2\obj\Debug\net5.0\CODE.csproj.AssemblyReference.cache
+C:\Users\james_7wltr8p\Desktop\CODE_v2\obj\Debug\net5.0\CODE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\james_7wltr8p\Desktop\CODE_v2\obj\Debug\net5.0\CODE.AssemblyInfoInputs.cache
+C:\Users\james_7wltr8p\Desktop\CODE_v2\obj\Debug\net5.0\CODE.AssemblyInfo.cs
+C:\Users\james_7wltr8p\Desktop\CODE_v2\obj\Debug\net5.0\CODE.csproj.CoreCompileInputs.cache
+C:\Users\james_7wltr8p\Desktop\CODE_v2\obj\Debug\net5.0\CODE.dll
+C:\Users\james_7wltr8p\Desktop\CODE_v2\obj\Debug\net5.0\ref\CODE.dll
+C:\Users\james_7wltr8p\Desktop\CODE_v2\obj\Debug\net5.0\CODE.pdb
+C:\Users\james_7wltr8p\Desktop\CODE_v2\obj\Debug\net5.0\CODE.genruntimeconfig.cache
