@@ -15,6 +15,8 @@ class Monster
         }
         
         public monsterType currentMonster;
+        
+        Random hitRoll = new Random ();
 
         public Monster (monsterType _monsterType)
         {
@@ -24,7 +26,7 @@ class Monster
 
         public void monsterStats (monsterType _monsterType)
         {
-           switch (monsterUniqueStats)
+           switch (_monsterType)
             {
                 case monsterType.Imp:
                     Console.WriteLine("An Imp appears!");

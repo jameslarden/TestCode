@@ -27,7 +27,6 @@ class Player
             Warrior
         }
 
-
         public Player(playerClass classChoice)
         {
             myClass = classChoice;
